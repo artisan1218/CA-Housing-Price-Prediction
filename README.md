@@ -1,6 +1,14 @@
 # California Housing Price Prediction
 Predicting the California housing price using significant environmental features such as air quality, water quality, oil wells and visualizing the current state of environmental factors and housing prices in California
 
+Team Member:
+1. Tongkai Yang,      Email: tongkaiy@usc.edu
+2. Chengyuan Zhou,    Email: czhou690@usc.edu
+3. Yuqi Xiao,         Email: yuqixiao@usc.edu
+4. Shihan Xu,         Email: shihanxu@usc.edu
+
+
+
 <br />
 
 ### Dataset Overview
